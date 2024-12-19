@@ -16,3 +16,12 @@ A Python-based GUI application using Tkinter to manage student information.
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
+
+Project File Structure for a GUI-Based Project
+student-management-system/
+    ├── Main.py  (Main GUI file)
+    ├── admin_login.py
+    ├── connector.py
+    ├── SMS.py
+    ├── datacase.sql                (Dependencies)
+    
